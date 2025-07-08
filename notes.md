@@ -4,3 +4,5 @@ Recherches à faire :
 - Pratons de conception POO
 - Héritage et relation bi/unidirectionnelles
 - Types
+
+- Créer la classe cours
